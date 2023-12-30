@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\santino\Desktop\Nueva carpeta (9)\gun\gun\Source.cpp(1,10): fatal  error C1083: No se puede abrir el archivo incluir: 'SFML/Audio.hpp': No such file or directory
